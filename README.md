@@ -1,4 +1,6 @@
-# GUI Maze Game in terminal
+# TUI Maze Game
+
+![Short game demo gif](tui-maze-game.gif)
 
 Date Created : 29-Jan-2023  
 Date Tracked with Git : 28-Feb-2025  
