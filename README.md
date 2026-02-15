@@ -1,6 +1,6 @@
 # TUI Maze Game
 
-A Terminal-user interface maze game that runs entirely in the terminal, built only with C and its standard libraries
+A maze game that runs entirely in the terminal, built only with C and its standard libraries
 
 ![Short game demo gif](tui-maze-game.gif)
 
