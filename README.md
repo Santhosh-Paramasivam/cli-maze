@@ -6,9 +6,9 @@ A Terminal-user interface maze game that runs entirely in the terminal, built on
 
 ## Motivation
 
-I built this game in the first semester of college, back when I only knew C, the imperative programming paradigm and C's standard libraries (conio.h)
+I built this game in the first semester of college, back when I only knew C, the imperative programming paradigm and C's standard libraries
 
-That wasn't enough to make a game, but I really wanted to. After months of failures and revelations, what seemed impossible at first suddenly happened.
+That was *not* enough to make a game, but I really wanted to. After months of failures and revelations, what seemed impossible at first suddenly happened!
 
 I made a game without any object-oriented programming or external libraries!
 
@@ -18,7 +18,7 @@ I made a game without any object-oriented programming or external libraries!
 
 - Click on `maze_game_windows.exe`
 - Click on the download button on the right
-- Open powershell or cmdprompt, and navigate to the .exe's location
+- Open powershell or command prompt in the exe's folder
 - Run it with `./maze_game_windows.exe`
 
 ### Unix (Linux or MacOS)
