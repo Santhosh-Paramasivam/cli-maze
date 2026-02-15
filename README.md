@@ -1,12 +1,8 @@
 # TUI Maze Game
 
+A Terminal-user interface maze game that runs entirely in the terminal, built only with C and its standard libraries
+
 ![Short game demo gif](tui-maze-game.gif)
-
-Date Created : 29-Jan-2023  
-Date Tracked with Git : 28-Feb-2025  
-
-This is a GUI maze app that runs in the terminal.  
-My very first project, and as such, not well architected.  
 
 ## Gameplay and controls  
 
